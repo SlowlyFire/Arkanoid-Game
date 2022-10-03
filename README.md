@@ -48,10 +48,7 @@ In addition, **the main basics of OOP principles** are kept: abstraction, encaps
 
 ![](https://github.com/SlowlyFire/Arkanoid-Game/blob/main/New%20Recording%20-%2010_3_2022%2C%2011_28_06%20AM-high.gif)  
 
-in order to compile and run the game:  
-if you use ant, then:  
+
+**in order to compile and run the game**, by using ant, enter:    
 ant compile  
 ant run  
-
-otherwise, you use cmd, then:  
-javac 
