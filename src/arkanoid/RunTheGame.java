@@ -63,6 +63,6 @@ public class RunTheGame {
                 gameFlow.runLevels(levelInformationList, numberOfArgs);
             }
             gameFlow.runLevels(specifiedLevelList, numberOfArgs);
-        }
+        } 
     } // end main
 } // end class RunTheGame
