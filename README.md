@@ -44,7 +44,7 @@ In addition, **the main basics of OOP principles** are kept: abstraction, encaps
 
 ![](https://github.com/SlowlyFire/Arkanoid-Game/blob/main/New%20Recording%20-%2010_3_2022%2C%2011_14_43%20AM-high.gif)  
 
-**Level Foure (Final Four):**    
+**Level Four (Final Four):**    
 
 ![](https://github.com/SlowlyFire/Arkanoid-Game/blob/main/New%20Recording%20-%2010_3_2022%2C%2011_28_06%20AM-high.gif)  
 
