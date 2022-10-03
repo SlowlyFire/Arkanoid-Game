@@ -8,25 +8,25 @@ Each level has its own unique difficulty, arrangement of blocks, background, pad
 ## **Gaining points**  
 With every block you destroy, you gain 5 points. When all the blocks on the playground are destroyed, you gain another 100 points and also pass to the next level.  
 If you managed to pass all four levels, you win. Otherwise, all the balls managed to slip to the bottom of the playground, and you lose.  
-Either way, your final score is shown on the screen.
+**Either way, your final score is shown on the screen.**  
 
 ## **Controlling the game**  
-In the beginning of each level, a screen of **3... 2... 1... GO** is displayed.  
-When the message reaches 'GO', the game begins.  
+In the beginning of each level, a screen of **3... 2... 1...** is displayed, then the game begins.  
 You can control the paddle with the left and right arrows on your keyboard.  
 When a ball hits the paddle, it bounces back to the playground. Notice that the velocity and direction of the ball change depends on where the paddle hits.  
-You can pause the game with the 'p' button, that will display a screen with the message **"paused -- press space to continue"**. Once the space buttom is pressed, the screen of "**3... 2... 1... GO"** will appear again.  
+You can pause the game with the 'p' button, that will display a screen with the message **"paused -- press space to continue"**. 
+Once the space buttom is pressed, the screen of "**3... 2... 1..."** will appear again.  
 
 ## **Implementation and code packaging**  
-The code files are arranged in packages. For example, if you want to see how I implemented the sprites and graphics, go to arkanoid→Sprites.  
+The code files are arranged in packages. For example, if you want to see how I implemented the sprites and the animations, go to arkanoid→sprites or arkanoid→animations.  
 **The main package list is:**    
 
-Levels- all stages  
-Animations- all screens (end, pause, countdown and more) and the animation runner  
-Geometry- all geometry required: velocity, line, point and more  
-HitListeners- ball remover, counter and more  
-Sprites- all sprites and graphics  
-Run- game flow  
+**levels** - all stages (currectenly 4, you can add)  
+**animations** - all screens (End, Pause, Countdown, etc) and the animation runner  
+**geometry** - all required geometry: Velocity, Line, Point, Rectangle  
+**hit_listeners** - BallRemover, BlockRemover, Counter, etc    
+**sprites** - Ball, Paddle, Block, Background, etc.
+**run** - GameFlow, GameEnvironment, and our main Class: RunTheGame  
 
 In the implementation of the code we can find various **design patterns**: Observer, Decorator, Template and more.  
 In addition, **the main basics of OOP principles** are kept: abstraction, encapsuliation, inheritance, polymorphism and more.  
