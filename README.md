@@ -32,5 +32,14 @@ In the implementation of the code we can find various **design patterns**: Obser
 In addition, **the main basics of OOP principles** are kept: abstraction, encapsuliation, inheritance, polymorphism and more.  
 
 ## **Gameplay and screenshots**  
+**Level One (Direct Hit):**    
 ![](https://github.com/SlowlyFire/Arkanoid-Game/blob/main/New%20Recording%20-%2010_3_2022%2C%2010_28_02%20AM-high.gif)   
 
+**Level Two (Wide Easy):**     
+![]()  
+
+**Level Three (Purple Rain):**    
+![]()  
+
+**Level Foure (Final Four):**    
+![]()  
