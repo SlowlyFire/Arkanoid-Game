@@ -36,7 +36,7 @@ In addition, **the main basics of OOP principles** are kept: abstraction, encaps
 ![](https://github.com/SlowlyFire/Arkanoid-Game/blob/main/New%20Recording%20-%2010_3_2022%2C%2010_28_02%20AM-high.gif)   
 
 **Level Two (Wide Easy):**     
-![]()  
+![](https://github.com/SlowlyFire/Arkanoid-Game/blob/main/New%20Recording%20-%2010_3_2022%2C%2010_56_30%20AM-high.gif)  
 
 **Level Three (Purple Rain):**    
 ![]()  
