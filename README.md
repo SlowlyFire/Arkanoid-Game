@@ -32,4 +32,5 @@ In the implementation of the code we can find various **design patterns**: Obser
 In addition, **the main basics of OOP principles** are kept: abstraction, encapsuliation, inheritance, polymorphism and more.  
 
 ## **Gameplay and screenshots**  
+https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c99f09f4-b839-4ace-a3fe-dff1878082ab.gif?ClientID=vimeo-core-prod&Date=1664782873&Signature=6bbd47727af7325659adb967107358fcce76452b  
 
