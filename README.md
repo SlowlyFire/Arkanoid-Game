@@ -25,7 +25,7 @@ The code files are arranged in packages. For example, if you want to see how I i
 **animations** - all screens (End, Pause, Countdown, etc) and the animation runner  
 **geometry** - all required geometry: Velocity, Line, Point, Rectangle  
 **hit_listeners** - BallRemover, BlockRemover, Counter, etc    
-**sprites** - Ball, Paddle, Block, Background, etc.
+**sprites** - Ball, Paddle, Block, Background, etc.  
 **run** - GameFlow, GameEnvironment, and our main Class: RunTheGame  
 
 In the implementation of the code we can find various **design patterns**: Observer, Decorator, Template and more.  
