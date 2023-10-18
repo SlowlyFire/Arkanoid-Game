@@ -49,6 +49,10 @@ In addition, **the main basics of OOP principles** are kept: abstraction, encaps
 ![](https://github.com/SlowlyFire/Arkanoid-Game/blob/main/New%20Recording%20-%2010_3_2022%2C%2011_28_06%20AM-high.gif)  
 
 
-**in order to compile and run the game**, by using ant, enter:    
+**in order to compile and run the game**, by using ant, enter from the main folder:    
 ant compile  
 ant run  
+
+**in order to compile and run the game**, without using ant, enter from the 'arkanoid_run_file':  
+if you use windows click on the 'ArkanoidGame.exe'  
+if you use ubunto enter in the terminal: java -cp biuoop-1.4.jar:bin RunTheGame  
