@@ -51,10 +51,11 @@ In addition, **the main basics of OOP principles** are kept: abstraction, encaps
 
 ## **How to run the game?**  
 
-**in order to compile and run the game**, by using ant, enter from the main folder:    
+**in order to compile and run the game, by using ant**, enter from the main folder:    
 ant compile  
 ant run  
 
-**in order to compile and run the game**, without using ant, enter from the 'arkanoid_run_file':  
+**in order to run the game, without using ant**, enter from the 'arkanoid_run_file' folder:  
 if you use windows click on the 'ArkanoidGame.exe'  
 if you use ubunto enter in the terminal: java -cp biuoop-1.4.jar:bin RunTheGame  
+(or give permissions to the .sh file and run it)  
